@@ -16,5 +16,5 @@ and save the test dataset files to "TestData" folder.
 ## Test
 The trained model can be downloaded at:
 
-https://drive.google.com/file/d/1mXp_PJKDhXPR0287FEHgPcQywti87a7U/view?usp=sharing
+https://drive.google.com/file/d/1ScMPGlQhQ1G1prL_aVX-KuWmP1FlZqGy/view?usp=drive_link
 and save the pretrained model to "Model" folder.
